@@ -3,9 +3,9 @@
 
 body {
   font-family: Arial;
-  background-color: #BB4A9F;
-  background-image: -webkit-linear-gradient(-320deg, #BB4A9F 0%, #E4E5D7 35%, #BEE8D7 65%, #51C8C8 90%);
-  background-image: linear-gradient(50deg,#BB4A9F 0%, #E4E5D7 35%, #BEE8D7 65%, #51C8C8 90%);
+  background-color: #ffffff;
+  background-image: -webkit-linear-gradient(-320deg, #161616 0%, #656464 35%, #74b2de 65%, #138fe8 90%);
+  background-image: linear-gradient(50deg,#161616 0%, #656464 35%, #74b2de 65%, #138fe8 90%);
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
